@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1012]C:\Users\AVY\Documents\Visual Studio 2013\Projects\BSTree\TestsLcaForBSTree\bin\Debug\TestsLcaForBSTree.dll</TopNode>
+  <SelectedNode>[0-1012]C:\Users\AVY\Documents\Visual Studio 2013\Projects\BSTree\TestsLcaForBSTree\bin\Debug\TestsLcaForBSTree.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1012]C:\Users\AVY\Documents\Visual Studio 2013\Projects\BSTree\TestsLcaForBSTree\bin\Debug\TestsLcaForBSTree.dll" Expanded="true" />
+    <Node UniqueName="[0-1013]BinaryTreeTestsLCA" Expanded="true" />
+    <Node UniqueName="[0-1000]BinaryTreeTestsLCA.LcaTests" Expanded="true" />
+    <Node UniqueName="[0-1001]BinaryTreeTestsLCA.LcaTests.Test" Expanded="true" />
+    <Node UniqueName="[0-1014]TestsLcaForBSTree" Expanded="true" />
+    <Node UniqueName="[0-1005]TestsLcaForBSTree.RightNeibourTests" Expanded="true" />
+    <Node UniqueName="[0-1006]TestsLcaForBSTree.RightNeibourTests.Test" Expanded="true" />
+  </Nodes>
+</VisualState>

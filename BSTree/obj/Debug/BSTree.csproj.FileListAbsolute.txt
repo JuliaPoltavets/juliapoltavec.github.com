@@ -1,0 +1,4 @@
+c:\users\avy\documents\visual studio 2013\Projects\BSTree\BSTree\bin\Debug\BSTree.dll
+c:\users\avy\documents\visual studio 2013\Projects\BSTree\BSTree\bin\Debug\BSTree.pdb
+c:\users\avy\documents\visual studio 2013\Projects\BSTree\BSTree\obj\Debug\BSTree.dll
+c:\users\avy\documents\visual studio 2013\Projects\BSTree\BSTree\obj\Debug\BSTree.pdb

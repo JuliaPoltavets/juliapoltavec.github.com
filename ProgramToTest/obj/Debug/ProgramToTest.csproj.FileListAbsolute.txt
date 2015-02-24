@@ -1,0 +1,8 @@
+c:\Users\AVY\documents\visual studio 2013\Projects\BSTree\ProgramToTest\bin\Debug\ProgramToTest.exe.config
+c:\Users\AVY\documents\visual studio 2013\Projects\BSTree\ProgramToTest\bin\Debug\ProgramToTest.exe
+c:\Users\AVY\documents\visual studio 2013\Projects\BSTree\ProgramToTest\bin\Debug\ProgramToTest.pdb
+c:\Users\AVY\documents\visual studio 2013\Projects\BSTree\ProgramToTest\bin\Debug\BSTree.dll
+c:\Users\AVY\documents\visual studio 2013\Projects\BSTree\ProgramToTest\bin\Debug\BSTree.pdb
+c:\Users\AVY\documents\visual studio 2013\Projects\BSTree\ProgramToTest\obj\Debug\ProgramToTest.csprojResolveAssemblyReference.cache
+c:\Users\AVY\documents\visual studio 2013\Projects\BSTree\ProgramToTest\obj\Debug\ProgramToTest.exe
+c:\Users\AVY\documents\visual studio 2013\Projects\BSTree\ProgramToTest\obj\Debug\ProgramToTest.pdb

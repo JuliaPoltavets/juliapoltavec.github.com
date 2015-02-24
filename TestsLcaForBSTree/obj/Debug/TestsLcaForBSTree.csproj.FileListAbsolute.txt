@@ -1,0 +1,9 @@
+c:\Users\AVY\documents\visual studio 2013\Projects\BSTree\TestsLcaForBSTree\bin\Debug\TestsLcaForBSTree.dll
+c:\Users\AVY\documents\visual studio 2013\Projects\BSTree\TestsLcaForBSTree\bin\Debug\TestsLcaForBSTree.pdb
+c:\Users\AVY\documents\visual studio 2013\Projects\BSTree\TestsLcaForBSTree\bin\Debug\BSTree.dll
+c:\Users\AVY\documents\visual studio 2013\Projects\BSTree\TestsLcaForBSTree\bin\Debug\nunit.framework.dll
+c:\Users\AVY\documents\visual studio 2013\Projects\BSTree\TestsLcaForBSTree\bin\Debug\BSTree.pdb
+c:\Users\AVY\documents\visual studio 2013\Projects\BSTree\TestsLcaForBSTree\bin\Debug\nunit.framework.xml
+c:\Users\AVY\documents\visual studio 2013\Projects\BSTree\TestsLcaForBSTree\obj\Debug\TestsLcaForBSTree.csprojResolveAssemblyReference.cache
+c:\Users\AVY\documents\visual studio 2013\Projects\BSTree\TestsLcaForBSTree\obj\Debug\TestsLcaForBSTree.dll
+c:\Users\AVY\documents\visual studio 2013\Projects\BSTree\TestsLcaForBSTree\obj\Debug\TestsLcaForBSTree.pdb

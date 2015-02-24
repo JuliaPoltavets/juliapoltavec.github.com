@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\AVY\Documents\Visual Studio 2013\Projects\BSTree\TestsLcaForBSTree\bin\Debug\TestsLcaForBSTree.dll" total="8" errors="0" failures="8" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-02-24" time="18:05:44">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.5472" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.4\bin" machine-name="ULTIMATE-PC" user="AVY" user-domain="Ultimate-PC" />
+  <culture-info current-culture="uk-UA" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\AVY\Documents\Visual Studio 2013\Projects\BSTree\TestsLcaForBSTree\bin\Debug\TestsLcaForBSTree.dll" executed="True" result="Failure" success="False" time="0.061" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="BinaryTreeTestsLCA" executed="True" result="Failure" success="False" time="0.011" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="LcaTests" executed="True" result="Error" success="False" time="0.010" asserts="0">
+            <failure>
+              <message><![CDATA[SetUp : System.ArgumentException : An item with the same key has already been added.]]></message>
+              <stack-trace><![CDATA[at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+at BinaryTreeTestsLCA.LcaTests.Init() in c:\Users\AVY\Documents\Visual Studio 2013\Projects\BSTree\TestsLcaForBSTree\LcaBSTreeTests.cs:line 67
+]]></stack-trace>
+            </failure>
+            <results>
+              <test-suite type="ParameterizedTest" name="Test" executed="True" result="Failure" success="False" time="0.000" asserts="0">
+                <results>
+                  <test-case name="BinaryTreeTestsLCA.LcaTests.Test(&quot;test3&quot;)" executed="True" result="Failure" success="False" time="0.000" asserts="0">
+                    <failure>
+                      <message><![CDATA[TestFixtureSetUp failed in LcaTests]]></message>
+                      <stack-trace />
+                    </failure>
+                  </test-case>
+                  <test-case name="BinaryTreeTestsLCA.LcaTests.Test(&quot;test2&quot;)" executed="True" result="Failure" success="False" time="0.000" asserts="0">
+                    <failure>
+                      <message><![CDATA[TestFixtureSetUp failed in LcaTests]]></message>
+                      <stack-trace />
+                    </failure>
+                  </test-case>
+                  <test-case name="BinaryTreeTestsLCA.LcaTests.Test(&quot;test1&quot;)" executed="True" result="Failure" success="False" time="0.000" asserts="0">
+                    <failure>
+                      <message><![CDATA[TestFixtureSetUp failed in LcaTests]]></message>
+                      <stack-trace />
+                    </failure>
+                  </test-case>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+      <test-suite type="Namespace" name="TestsLcaForBSTree" executed="True" result="Failure" success="False" time="0.035" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="RightNeibourTests" executed="True" result="Error" success="False" time="0.035" asserts="0">
+            <failure>
+              <message><![CDATA[SetUp : System.ArgumentException : An item with the same key has already been added.]]></message>
+              <stack-trace><![CDATA[at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+at TestsLcaForBSTree.RightNeibourTests.Init() in c:\Users\AVY\Documents\Visual Studio 2013\Projects\BSTree\TestsLcaForBSTree\RightNeibourTests.cs:line 50
+]]></stack-trace>
+            </failure>
+            <results>
+              <test-suite type="ParameterizedTest" name="Test" executed="True" result="Failure" success="False" time="0.000" asserts="0">
+                <results>
+                  <test-case name="TestsLcaForBSTree.RightNeibourTests.Test(&quot;test5&quot;)" executed="True" result="Failure" success="False" time="0.000" asserts="0">
+                    <failure>
+                      <message><![CDATA[TestFixtureSetUp failed in RightNeibourTests]]></message>
+                      <stack-trace />
+                    </failure>
+                  </test-case>
+                  <test-case name="TestsLcaForBSTree.RightNeibourTests.Test(&quot;test1&quot;)" executed="True" result="Failure" success="False" time="0.000" asserts="0">
+                    <failure>
+                      <message><![CDATA[TestFixtureSetUp failed in RightNeibourTests]]></message>
+                      <stack-trace />
+                    </failure>
+                  </test-case>
+                  <test-case name="TestsLcaForBSTree.RightNeibourTests.Test(&quot;test2&quot;)" executed="True" result="Failure" success="False" time="0.000" asserts="0">
+                    <failure>
+                      <message><![CDATA[TestFixtureSetUp failed in RightNeibourTests]]></message>
+                      <stack-trace />
+                    </failure>
+                  </test-case>
+                  <test-case name="TestsLcaForBSTree.RightNeibourTests.Test(&quot;test3&quot;)" executed="True" result="Failure" success="False" time="0.000" asserts="0">
+                    <failure>
+                      <message><![CDATA[TestFixtureSetUp failed in RightNeibourTests]]></message>
+                      <stack-trace />
+                    </failure>
+                  </test-case>
+                  <test-case name="TestsLcaForBSTree.RightNeibourTests.Test(&quot;test4&quot;)" executed="True" result="Failure" success="False" time="0.000" asserts="0">
+                    <failure>
+                      <message><![CDATA[TestFixtureSetUp failed in RightNeibourTests]]></message>
+                      <stack-trace />
+                    </failure>
+                  </test-case>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
